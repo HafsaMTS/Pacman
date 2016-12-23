@@ -4,7 +4,7 @@ MUDASSIR MAQSOOD KHAN
 HAFSA AHMED
 MTS 37 A
 PAC MAN GAME 
-* /
+*/
 #include"menu.h"
 #include<windows.h>
 #include<iostream>
